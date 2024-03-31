@@ -17,7 +17,7 @@ The utilization factor determines the portion of the chip area allocated for pla
 
 Utilization factor of 0.8 (UF = 0.8) implies that 80% of the area is used for cell placement, while 20% is reserved for routing.
 Core utilization is calculated by dividing the combined area of macros, standard cells, and other cells by the total core area.
-Die utilization is determined by dividing the sum of the core area and IO area by the total die area.
+Die utilization is determined by dividing the sum of the core area and IO area by the total die area.<br/>
 **Aspect Ratio:**
 Aspect ratio influences the size and shape of the chip or block.
 It's defined as the ratio of height to width or the ratio of horizontal routing resources to vertical routing resources.
