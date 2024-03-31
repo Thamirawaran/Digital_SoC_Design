@@ -1,10 +1,12 @@
 **Theory Part**
 **Good Floorplan vs. Bad Floorplan:**<br/>
+
 **Good floor plan**
 - Proper placement of functional blocks
 - efficient routing channels
 - minimal wirelength
 - optimal chip utilization.<br/>
+
 **Bad Floor plan**
 - congested routing regions
 - inefficient space utilization
