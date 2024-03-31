@@ -23,4 +23,4 @@ Lab Screenshots
 
 > ![SS16](https://github.com/Thamirawaran/VSD_SoC_Design/assets/107134124/48fab395-79da-45ff-8aee-943759fd4034)
 
-> ![SS17](https://github.com/Thamirawaran/VSD_SoC_Design/assets/107134124/7f770860-45e1-4761-a21f-20cb50c7c919)
+
