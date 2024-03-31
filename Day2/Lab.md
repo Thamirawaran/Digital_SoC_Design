@@ -1,8 +1,6 @@
 Lab Screenshots
 > ![SS5](https://github.com/Thamirawaran/VSD_SoC_Design/assets/107134124/5043508c-2612-4378-bc13-8cc0940edf4c)
 
-> ![SS6](https://github.com/Thamirawaran/VSD_SoC_Design/assets/107134124/4e603a24-1c7b-4922-bb22-66d571141e09)
-
 > ![SS7](https://github.com/Thamirawaran/VSD_SoC_Design/assets/107134124/38105c70-ee4d-4cc3-92af-faca2d1c2cb2)
 
 > ![SS8](https://github.com/Thamirawaran/VSD_SoC_Design/assets/107134124/6a6a0e84-0b2d-4e5e-bafc-c6f6cf3ddb8a)
