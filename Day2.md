@@ -59,3 +59,6 @@ Definitions and thresholds used to determine the timing constraints and requirem
 
 **Propagation Delay and Transition Time:**
 Understanding propagation delay and transition time as crucial parameters affecting the performance and timing of digital circuits.
+
+**Labs**
+**Chip Floor Planning considerations**
