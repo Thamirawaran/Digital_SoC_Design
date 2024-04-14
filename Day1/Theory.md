@@ -15,6 +15,7 @@
 - These architectures typically have variable-length instructions, where some instructions may be quite long.
 - CISC architectures tend to have more emphasis on hardware complexity to support a wide range of instructions.
 - Examples of CISC architectures include x86 (Intel and AMD processors) and many older processor architectures.
+- 
 **2. RISC (Reduced Instruction Set Computing):**
 
 - RISC architectures have a smaller, simpler set of instructions compared to CISC architectures.
@@ -49,7 +50,7 @@
   - _Advantages:_ Simpler hardware design allows for potentially higher clock speeds, improved pipelining, and reduced power consumption.
   - _Disadvantages:_ Requires more instructions for complex tasks, potentially larger code size, and heavier reliance on optimizing compilers.
 
-**SKY L3 - From Software Applications to Hardware:** This likely refers to a process or system where software applications are translated into hardware functionality. It could involve converting high-level programming instructions into hardware operations.
+<!---**SKY L3 - From Software Applications to Hardware:** This likely refers to a process or system where software applications are translated into hardware functionality. It could involve converting high-level programming instructions into hardware operations.--->
 
 **Higher Level Language:** These are programming languages like Python or C++ that are designed to be easy for humans to read and write. They abstract away low-level details and provide features that make programming more intuitive and efficient.
 
