@@ -26,14 +26,16 @@ Placement def in magic
 
 > ![SS16](https://github.com/Thamirawaran/VSD_SoC_Design/assets/107134124/48fab395-79da-45ff-8aee-943759fd4034)
 
->[!NOTE]
-># Now we can run floorplan
+> [!NOTE]
+># run floorplan
 >%run_floorplan
+
 ># Change directory to generated floorplan inorder to open floorplan.def file
 cd Desktop/work/tools/openlane_working_dir/openlane/designs/picorv32a/runs/17-03_12-06/results/floorplan/
 
 ># Load the floorplan def in magic tool
 magic -T /home/vsduser/Desktop/work/tools/openlane_working_dir/pdks/sky130A/libs.tech/magic/sky130A.tech lef read ../../tmp/merged.lef def read picorv32a.floorplan.def &
+
 ># Congestion aware placement by default
 >run_placement
 ># Change directory to placement inorder to open placement.def file
