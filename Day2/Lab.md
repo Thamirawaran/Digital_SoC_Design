@@ -29,7 +29,7 @@ Placement def in magic
 ># run floorplan
 >%run_floorplan
 ># Change directory to generated floorplan inorder to open floorplan.def file
-cd Desktop/work/tools/openlane_working_dir/openlane/designs/picorv32a/runs/17-03_12-06/results/floorplan/
+>cd Desktop/work/tools/openlane_working_dir/openlane/designs/picorv32a/runs/17-03_12-06/results/floorplan/
 ># Load the floorplan def in magic tool
 >magic -T /home/vsduser/Desktop/work/tools/openlane_working_dir/pdks/sky130A/libs.tech/magic/sky130A.tech lef read ../../tmp/merged.lef def read picorv32a.floorplan.def &
 ># Congestion aware placement by default
