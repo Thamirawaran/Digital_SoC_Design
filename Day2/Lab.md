@@ -8,11 +8,10 @@ Run floorplan
 
 > ![SS8](https://github.com/Thamirawaran/VSD_SoC_Design/assets/107134124/6a6a0e84-0b2d-4e5e-bafc-c6f6cf3ddb8a)
 
-> ![SS9](https://github.com/Thamirawaran/VSD_SoC_Design/assets/107134124/45ad5776-a4bb-42e7-afd1-330a9349a348)
 
 Floorplan def in magic
 > ![SS10](https://github.com/Thamirawaran/VSD_SoC_Design/assets/107134124/94c81ea1-3af1-4ba3-84d3-01e043943efa)
-
+> ![SS9](https://github.com/Thamirawaran/VSD_SoC_Design/assets/107134124/45ad5776-a4bb-42e7-afd1-330a9349a348)
 > ![SS11](https://github.com/Thamirawaran/VSD_SoC_Design/assets/107134124/acc981f7-4573-4af0-a1f7-97de028b099d)
 
 > ![SS12](https://github.com/Thamirawaran/VSD_SoC_Design/assets/107134124/25070e5b-8db5-47ea-bb07-cb4403e185ff)
@@ -32,9 +31,9 @@ Placement def in magic
 ># Change directory to generated floorplan inorder to open floorplan.def file
 cd Desktop/work/tools/openlane_working_dir/openlane/designs/picorv32a/runs/17-03_12-06/results/floorplan/
 ># Load the floorplan def in magic tool
-magic -T /home/vsduser/Desktop/work/tools/openlane_working_dir/pdks/sky130A/libs.tech/magic/sky130A.tech lef read ../../tmp/merged.lef def read picorv32a.floorplan.def &
+>magic -T /home/vsduser/Desktop/work/tools/openlane_working_dir/pdks/sky130A/libs.tech/magic/sky130A.tech lef read ../../tmp/merged.lef def read picorv32a.floorplan.def &
 ># Congestion aware placement by default
->run_placement
+>%run_placement
 ># Change directory to placement inorder to open placement.def file
 >cd Desktop/work/tools/openlane_working_dir/openlane/designs/picorv32a/runs/17-03_12-06/results/placement/
 ># Command to load the placement def in magic tool
