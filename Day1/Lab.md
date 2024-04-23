@@ -24,7 +24,7 @@ $$Percentage of DFF's = 10.843$$
 >./flow.tcl -interactive
 
 ># input the required packages for proper functionality of the openlane flow
->package require openlane 0.9
+>%package require openlane 0.9
 
 ># prepare the design creating some necessary files and directories for running a specific design "picorv32a"
 >%prep -design picorv32a
