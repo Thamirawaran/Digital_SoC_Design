@@ -17,7 +17,7 @@ $$Percentage of DFF's = 10.843$$
 ># Change directory to openlane flow directory
 >cd Desktop/work/tools/openlane_working_dir/openlane
 
-> #invoke docker
+># invoke docker
 >docker
 
 ># invoke the openlane flow in the Interactive mode
@@ -35,5 +35,5 @@ $$Percentage of DFF's = 10.843$$
 ># Exit from openlane flow
 >exit
 
-# Exit from OpenLANE flow docker sub-system
-exit
+># Exit from OpenLANE flow docker sub-system
+>exit
