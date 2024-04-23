@@ -16,7 +16,7 @@ $$Percentage of DFF's = 10.843$$
 > [!NOTE]
 ># Change directory to openlane flow directory
 >cd Desktop/work/tools/openlane_working_dir/openlane
-> # alias docker='docker run -it -v $(pwd):/openLANE_flow -v $PDK_ROOT:$PDK_ROOT -e PDK_ROOT=$PDK_ROOT -u $(id -u $USER):$(id -g $USER) efabless/openlane:v0.21'
+# alias docker='docker run -it -v $(pwd):/openLANE_flow -v $PDK_ROOT:$PDK_ROOT -e PDK_ROOT=$PDK_ROOT -u $(id -u $USER):$(id -g $USER) efabless/openlane:v0.21'
 >docker #invoke docker
 
 ># invoke the openlane flow in the Interactive mode
