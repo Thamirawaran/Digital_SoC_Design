@@ -32,8 +32,3 @@ $$Percentage of DFF's = 10.843$$
 ># run synthesis
 >run_synthesis
 
-># Exit from openlane flow
->exit
-
-># Exit from OpenLANE flow docker sub-system
->exit
