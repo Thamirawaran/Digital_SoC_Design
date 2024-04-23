@@ -13,22 +13,18 @@ $$Percentage of DFF's = 10.843$$
 
 > ![SS3](https://github.com/Thamirawaran/VSD_SoC_Design/assets/107134124/125fbc5f-11da-41ec-a339-3a4e2bb60c71)
 > ![SS4](https://github.com/Thamirawaran/VSD_SoC_Design/assets/107134124/7a6a1109-c0e5-4fa1-a03e-b13ce6f1dbfd)
+
 > [!NOTE]
 ># Change directory to openlane flow directory
 >cd Desktop/work/tools/openlane_working_dir/openlane
-
 ># invoke docker
 >docker
-
 ># invoke the openlane flow in the Interactive mode
 >./flow.tcl -interactive
-
 ># input the required packages for proper functionality of the openlane flow
 >%package require openlane 0.9
-
 ># prepare the design creating some necessary files and directories for running a specific design "picorv32a"
 >%prep -design picorv32a
-
 ># run synthesis
 >%run_synthesis
 
