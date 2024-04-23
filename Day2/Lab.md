@@ -1,4 +1,7 @@
 Lab Screenshots
+>#Run floorplan
+> ![SS4](https://github.com/Thamirawaran/VSD_SoC_Design/assets/107134124/7a6a1109-c0e5-4fa1-a03e-b13ce6f1dbfd)
+
 > ![SS5](https://github.com/Thamirawaran/VSD_SoC_Design/assets/107134124/5043508c-2612-4378-bc13-8cc0940edf4c)
 
 > ![SS7](https://github.com/Thamirawaran/VSD_SoC_Design/assets/107134124/38105c70-ee4d-4cc3-92af-faca2d1c2cb2)
